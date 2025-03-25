@@ -16,7 +16,7 @@ const xhr = new XMLHttpRequest();
 **Configuração:**
 **javascript**
 
-xhr.open('GET', 'https://api.nossaecommerce.com/produtos', true); // true = assíncrono
+xhr.open('GET', 'https://api.wjvcg.com/produtos', true); // true = assíncrono
 xhr.setRequestHeader('Content-Type', 'application/json');
 
 **Tratamento da Resposta:**
@@ -52,7 +52,6 @@ xhr.send();
 Qualquer dúvida, estou à disposição!
 
 Abraços,
-Arquiteto de Interoperabilidade
 
 
 
@@ -62,7 +61,7 @@ Arquiteto de Interoperabilidade
 
 
 
- E-mail 2: Fluxo Colaborativo no GitHub
+E-mail 2: Fluxo Colaborativo no GitHub
 
 Assunto:  GitHub - Como Contribuir no Projeto
 
@@ -72,46 +71,33 @@ Vamos trabalhar de forma colaborativa! Siga esses passos:
 
 **Configuração Inicial:
 Clone o repositório:**
-**bash**
 
 git clone https://github.com/vitorcarminati/Email.git
-cd ecommerce-brasil
 
 **Configure seu Git:**
-**bash**
 
 git config --global user.name "Seu Nome"
 git config --global user.email "seu@email.com"
 
 ** Fluxo de Trabalho:
-Crie uma branch para sua tarefa:**
-**bash**
+Crie uma branch para sua tarefa:
 
-git checkout -b feature/nova-funcionalidade
+git checkout -b feature/sua-feature
 
 **Faça e envie as alterações:**
-**bash**
 
 git add .
 git commit -m "Adiciona filtro de produtos"
-git push origin feature/nova-funcionalidade
+git push origin feature/sua-feature
 
 **Abra um Pull Request no GitHub para revisão.**
 ** Repositório:** github.com/vitorcarminati/Email.git
 
-**Dicas:**
- Sempre dê **git pul**l antes de começar.
- Mensagens de commit claras e objetivas.
- Revise o código dos colegas.
+**Importante:**
+Sempre dê **git pull antes de começar.
+Mensagens de commit claras e objetivas.
+Revise o código dos colegas.
 
 Vamos construir algo incrível juntos! 
 
-Abraços,
-
-Arquiteto de Interoperabilidade
-
-Destaques:
-
-Códigos mantidos exatamente como no original.
-
-Tom claro e objetivo, mas ainda profissional.
+Abraços.
