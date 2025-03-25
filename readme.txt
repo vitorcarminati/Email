@@ -104,3 +104,9 @@ Revise o código dos colegas.
 Vamos construir algo incrível juntos! 
 
 Abraços.
+
+
+**Integrantes do grupo:**
+
+Wellington Junger de Oliveira
+Vitor Carminati Gonçalves
