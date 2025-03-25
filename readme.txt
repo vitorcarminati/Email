@@ -74,7 +74,7 @@ Vamos trabalhar de forma colaborativa! Siga esses passos:
 Clone o repositório:**
 **bash**
 
-git clone https://github.com/nossaempresa/ecommerce-brasil.git -- modificar pós subida
+git clone https://github.com/vitorcarminati/Email.git
 cd ecommerce-brasil
 
 **Configure seu Git:**
