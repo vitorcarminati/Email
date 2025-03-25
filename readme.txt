@@ -97,7 +97,7 @@ git commit -m "Adiciona filtro de produtos"
 git push origin feature/nova-funcionalidade
 
 **Abra um Pull Request no GitHub para revisão.**
-** Repositório:** github.com/nossaempresa/ecommerce-brasil
+** Repositório:** github.com/vitorcarminati/Email.git
 
 **Dicas:**
  Sempre dê **git pul**l antes de começar.
