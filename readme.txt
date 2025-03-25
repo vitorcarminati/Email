@@ -70,6 +70,9 @@ Time,
 Vamos trabalhar de forma colaborativa! Siga esses passos:
 
 **Configuração Inicial:
+
+Link do repositório: https://github.com/vitorcarminati/Email
+
 Clone o repositório:**
 
 git clone https://github.com/vitorcarminati/Email.git
